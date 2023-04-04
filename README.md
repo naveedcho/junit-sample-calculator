@@ -1,6 +1,6 @@
 # JUnit Testing with Small Calculator App
 
-Introduction to eXtreme Programming metholody
+Introduction to eXtreme Programming methodology
 
 ## Date
 September 29, 2022
